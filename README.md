@@ -1,3 +1,5 @@
+VIDEO STREAMING - DATABASE PROJECT
+
 To effectively manage data for a Video Streaming Platform, a database schema has been designed to implement. The schema includes tables to store information about the movies available on the platform, including their titles, genres, and actors starring in them.
 
 The system stores user information, including login credentials and watch progress. As users can have multiple profiles in their accounts, a table stores user profile information.
